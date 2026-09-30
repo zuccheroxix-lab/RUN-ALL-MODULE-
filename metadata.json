@@ -1,0 +1,6 @@
+{
+  "name": "ZX Shizuku Shell Runner",
+  "description": "Privileged shell and module execution manager powered by Shizuku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
